@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\F23.StringSimilarity\F23.StringSimilarity.csproj" />
+    <ProjectReference Include="..\..\NET_2_0_Port\NET_2_0_Port.csproj" />
   </ItemGroup>
 
 </Project>
